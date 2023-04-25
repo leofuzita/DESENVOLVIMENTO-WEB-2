@@ -1,0 +1,79 @@
+.cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.grupo1{
+    margin: 10px;
+}
+
+.grupo2{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grupo3{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grupo4{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grupo5{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.email{
+    width: 70%;
+}
+
+.data{
+    width: 30%;
+}
+
+.endereco{
+    width: 50%;
+}
+
+.cidade{
+    width: 40%;
+}
+
+.foto{
+    width: 49.5%;
+}
+
+.pdf{
+    width: 49.5%;
+}
+.button1{
+    background-color: rgb(240, 228, 57);
+    border-radius: 4px;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+}
+.button2{
+    background-color: rgb(62, 147, 245);
+    border-radius: 4px;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+}
+.imagem{
+    display: inline-block;
+    align-items: center;
+}
+
